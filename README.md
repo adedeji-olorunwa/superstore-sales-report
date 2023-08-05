@@ -60,6 +60,12 @@ From the meticulously cleaned and enriched dataset, I applied various data analy
 ![](pivot_table4.png)
 ![](pivot_table5.png)
 
+--------
+
+### Visualisation of insights
+
+
+
 
 
 
