@@ -54,6 +54,8 @@ As a result of these strategic data enhancements, the dataset was expanded to en
 
 ### Data analyzing using PIVOT TABLEs
 
+From the meticulously cleaned and enriched dataset, I applied various data analysis techniques to extract pertinent pieces of information from various categories. By utilizing a pivot table, I strategically juxtaposed different categories against one another to gain a deeper understanding of the underlying insights hidden within the data. This analytical approach allowed me to explore relationships, patterns, and trends that might not have been immediately apparent through conventional means.
+
 ![](Pivot_table3.png)
 ![](pivot_table4.png)
 ![](pivot_table5.png)
