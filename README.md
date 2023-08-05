@@ -54,7 +54,7 @@ As a result of these strategic data enhancements, the dataset was expanded to en
 
 ### Data analyzing using PIVOT TABLEs
 
-![](pivot_table3.png)
+![](Pivot_table3.png)
 ![](pivot_table4.png)
 ![](pivot_table5.png)
 
